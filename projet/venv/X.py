@@ -1,5 +1,4 @@
 import numpy
-import sys
 
 class Element(object):
     def __init__(self, node_label, A, E, L, angle=None, cosine=None):
